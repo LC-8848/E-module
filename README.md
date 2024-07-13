@@ -38,8 +38,7 @@
 
 ### 使用
 
-简单例子：
--
+'''
 .版本 2
 .支持库 spec
 
@@ -77,6 +76,7 @@
 .子程序 __启动窗口_将被销毁
 
 绘制.释放创建 (hwnd)
+'''
 
 ## 贡献
 
@@ -86,4 +86,4 @@
 
 如果有任何问题或建议，请通过以下方式与我们联系：
 - bilibili (uid): 520388599
-- GitHub Issues:
+- GitHub Issues: https://github.com/LC-8848/E-module/issues
